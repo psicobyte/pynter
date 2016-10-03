@@ -26,7 +26,7 @@ PiMondrian usa los siguientes módulos:
 
 ## Uso:
 
-Este módulo sólo tiene una función, la función `pinta_cuadro`, que admite una cadena (que debería ser de 25 unos y ceros) y retorna un objeto `Image` de `PIL`
+Este módulo sólo tiene una función, la función `pinta_cuadro`, que admite una cadena (que debería ser de 25 unos y ceros) y retorna un objeto `Image` de `PIL` conteniendo una imagen de 800x800 px.
 
 pynter.py está ideado para ser usado como módulo en otros programas de este modo:
 
